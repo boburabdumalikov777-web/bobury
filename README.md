@@ -1,1 +1,1 @@
-Bu loyiha Git PR amaliyoti uchun misoldir.
+Bu loyiha Git PR amaliyoti uchun misoldir..
