@@ -1,2 +1,1 @@
-# bobury
-this is for my nodejs repo 
+Bu loyiha Git PR amaliyoti uchun misoldir..
